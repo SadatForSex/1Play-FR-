@@ -1,6 +1,6 @@
-﻿token=NTE2OTAxNzU4ODMyNzM4MzA0.Dt6hqQ.Ve41ZffF30fBHoPmgnaY2kSo1Bo
-owner=318705077734998017
-prefix= $
-game= !$help
+token=NTMxNDA4ODc4OTg2OTg1NDcy.DxNgtg.EGfG_S89dV_7_RAkoLBHVTKpAYA
+owner=475797943480352789
+prefix= 1
+game= Type | 1help
 stayinchannel=true
 songinstatus=true 
